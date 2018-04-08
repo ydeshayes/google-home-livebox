@@ -1,0 +1,25 @@
+{
+  "name": "google-home-livebox",
+  "version": "1.0.0",
+  "description": "Control your livebox with your google home or assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydeshayes/google-home-livebox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydeshayes/google-home-livebox/issues"
+  },
+  "homepage": "https://github.com/ydeshayes/google-home-livebox#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-basic-auth": "^1.1.4",
+    "express-brute": "^1.0.1",
+    "querystring": "^0.2.0"
+  }
+}
